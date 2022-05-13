@@ -1,1 +1,2 @@
-# pong-1b-jose-pavan-sara-
+# PONG
+Criando o jogo pong em sala de aula com a turma de pensamento computacional 1B Jose Pavan 
